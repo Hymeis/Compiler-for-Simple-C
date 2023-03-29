@@ -1,0 +1,25 @@
+open scope
+open scope
+x: int
+f: int()
+close scope
+open scope
+x: int
+y: int
+g: int()
+z: int
+open scope
+w: int
+add
+add
+close scope
+close scope
+x: int
+open scope
+y: int
+h: char **()
+z: int
+add
+add
+close scope
+close scope

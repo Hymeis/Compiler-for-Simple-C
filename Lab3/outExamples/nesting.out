@@ -1,0 +1,27 @@
+open scope
+x: int
+a: int
+b: int *[10]
+open scope
+x: int
+f: int
+f: int *()
+y: int
+add
+eql
+open scope
+x: int
+f: int
+y: int
+z: int
+add
+add
+gtn
+open scope
+a: int
+index
+addr
+close scope
+close scope
+close scope
+close scope

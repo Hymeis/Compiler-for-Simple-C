@@ -1,0 +1,17 @@
+open scope
+x: int
+x: int
+a: int[10]
+a: int[5]
+x: long *
+g: int()
+g: int *()
+f: char *()
+open scope
+z: int
+f: char *()
+close scope
+f: int
+h: int
+h: int()
+close scope

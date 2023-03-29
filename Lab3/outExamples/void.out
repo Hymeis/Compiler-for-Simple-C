@@ -1,0 +1,13 @@
+open scope
+open scope
+f: void()
+close scope
+x: void
+open scope
+y: void
+g: void()
+close scope
+h: void *()
+a: void[10]
+b: void *[10]
+close scope
